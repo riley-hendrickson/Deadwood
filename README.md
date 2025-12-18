@@ -46,7 +46,7 @@ The project follows a layered architecture:
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/Deadwood.git
+git clone https://github.com/riley-hendrickson/Deadwood.git
 cd Deadwood
 
 # Build the project
